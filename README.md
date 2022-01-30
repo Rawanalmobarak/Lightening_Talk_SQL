@@ -1,0 +1,1 @@
+# Lightening_Talk_SQL
